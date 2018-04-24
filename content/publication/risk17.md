@@ -17,7 +17,7 @@ url_code = ""
 title = "Decision Theory for Network Security: Active Sensing for Detection and Prevention of Data Exfiltration"
 authors = ["Sara Mc Carthy", "Arunesh Sinha", "Milind Tambe", "Pratyusa K. Manadhata"]
 publication_short = ""
-selected = true
+selected = false
 
 +++
 
