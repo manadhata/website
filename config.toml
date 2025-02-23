@@ -163,16 +163,11 @@ defaultContentLanguageInSubdir = false
   name = "Media"
   url = "media"
   weight = 5
-  
-[[menu.main]]
-  name = "CV"
-  url = "#cv"
-  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
