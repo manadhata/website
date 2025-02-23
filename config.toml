@@ -21,11 +21,9 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Pratyusa K. Manadhata"
-  role = "Principal Researcher"
-  organization = "Micro Focus"
   avatar = "portrait.jpg"
   email = "manadhata@alumni.cmu.edu"
-  address = "1140 Enterprise Way, Sunnyvale, CA 94089, USA"
+  
   
   
 
@@ -124,11 +122,6 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:manadhata@alumni.cmu.edu"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/pmanadhata"
 
   [[params.social]]
     icon = "google-scholar"
