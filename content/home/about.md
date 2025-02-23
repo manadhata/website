@@ -10,12 +10,6 @@ widget = "about"
 weight = 1
 
 # List your academic interests.
-#[interests]
-#  interests = [
-#    "Security Analytics",
-#    "Hardware Security",
-#    "Mobile Security"
-#  ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
